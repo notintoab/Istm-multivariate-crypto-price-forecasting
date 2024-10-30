@@ -21,6 +21,7 @@ This project implements **Long Short-Term Memory (LSTM)** networks to forecast c
 - Preprocessing includes normalization and scaling
 
 ### Screenshots
-1. []
-2. []
-3. []
+<img width="714" alt="Screenshot 2024-10-30 at 20 50 12" src="https://github.com/user-attachments/assets/d06352d2-9bbc-48f5-a236-b9f16bb1fa29">
+
+<img width="714" alt="Screenshot 2024-10-28 at 20 16 10" src="https://github.com/user-attachments/assets/23d164ec-6d1e-497c-a3d4-8905dd4223e0">
+
